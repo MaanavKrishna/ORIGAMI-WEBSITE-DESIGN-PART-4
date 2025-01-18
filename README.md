@@ -28,7 +28,7 @@ This project showcases a sleek, responsive, and interactive website design inspi
       
     git clone https://github.com/MaanavKrishna/ORIGAMI-WEBSITE-DESIGN-PART-4.git  
 
-  2.	Open the index.html file in your favorite browser to view the design.
+2.  Open the index.html file in your favorite browser to view the design.
 
 💡 Learning Outcomes
 	•	Understanding the principles of responsive web design.
