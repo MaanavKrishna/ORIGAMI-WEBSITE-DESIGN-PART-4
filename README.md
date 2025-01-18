@@ -31,9 +31,9 @@ Download the code to your local system by running:
 
     git clone https://github.com/MaanavKrishna/ORIGAMI-WEBSITE-DESIGN-PART-4.git  
 
-2.	Open the Project:
+2.Open the Project:
 Navigate to the project folder and open the index.html file in any browser.
-	3.	Explore and Customize:
+3.Explore and Customize:
 Modify the files to add your own content, colors, or features. The project structure is easy to understand and customize.
 
 💡 Learning Outcomes
